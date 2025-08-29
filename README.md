@@ -58,7 +58,7 @@ Example Error Response:
 }
 ```
 ## Testing with cURL
-You can easily test the live endpoint using a command-line tool like cURL. Replace https://your-api-url.com with the actual URL provided by your hosting provider (like Vercel).
+You can easily test the live endpoint using cURL.
 
 ```bash
 
