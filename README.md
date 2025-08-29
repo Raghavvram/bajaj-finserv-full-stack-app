@@ -62,7 +62,7 @@ You can easily test the live endpoint using cURL.
 
 ```bash
 
-curl -X POST https://your-api-url.com/bfhl \
+curl -X POST https://bajaj-finserv-full-stack-app.vercel.app/bfhl \
 -H "Content-Type: application/json" \
 -d '{
     "data": ["a", "1", "334", "4", "R", "$"]
