@@ -11,7 +11,7 @@ Method: `POST`
 Headers: `Content-Type: application/json`
 
 ### Request Body
-The request body must be a JSON object containing a single key, "data", which holds an array of strings.
+The request body must be a JSON object containing a single key, `"data"`, which holds an array of strings.
 
 Example Request Payload:
 
